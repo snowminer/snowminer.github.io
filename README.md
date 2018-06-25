@@ -9,7 +9,7 @@
 ## Layout
  'index.html' -base web page that the table code is inserted into. 
  
- `designs.js` is   app's functionality is writen in  Javascript code.
+ 'designs.js' is   app's code writen in  Javascript code.
 
 ## Working
 user selects height and width then clicks submit button ,JS code reads value of height and width ,clears table workspace and creates a table of that size.

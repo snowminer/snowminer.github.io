@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Layout](#Layout)
-* [work of code](#working of code)
+* [Working of code](#Working of code)
 * [Contributing](#contributing)
 
 ## Layout

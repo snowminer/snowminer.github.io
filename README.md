@@ -2,16 +2,21 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* [Layout](#Layout)
+* [work of code](#working of code)
 * [Contributing](#contributing)
 
-## Instructions
+## Layout
+ 'index.html' base web page that the table code is inserted into.
+ `designs.js` is   app's functionality is writen in  Javascript code.
 
-To get started, open `designs.js` and start building out the app's functionality.
+## Working of code
+user selects height and width then clicks submit button ,JS code reads value of height and width ,clears table workspace and creates a table of that size.
+Then changes the color of the blocks the user clicks on to the colorpicker's current color.
+If submit button is clicked again the processes  starts again.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
 ## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Chris De Jager (Student)
+This repository is the  code for I used to make My Pixel Art Maker Project.
 # snowminer.github.io

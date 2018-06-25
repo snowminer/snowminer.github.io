@@ -7,7 +7,8 @@
 * [Contributing](#contributing)
 
 ## Layout
- 'index.html' base web page that the table code is inserted into.
+ 'index.html' -base web page that the table code is inserted into. 
+ 
  `designs.js` is   app's functionality is writen in  Javascript code.
 
 ## Working
